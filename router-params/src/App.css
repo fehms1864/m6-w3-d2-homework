@@ -1,0 +1,43 @@
+img {
+  width: 175px;
+  float:left;
+  margin-left: 40px;
+}
+img.nf {
+  border: none;
+}
+img.hb {
+  height: 80px;
+  padding: 10px 10px;
+}
+img.hu {
+  height: 80px;
+  padding: 10px 10px;
+}
+img.pr {
+  height: 80px;
+}
+div h2 {
+  width: 100vw;
+  float: none;
+  margin-top: 105px;
+  margin-left: 3rem;
+  margin-right: auto;
+  text-transform:capitalize;
+  font-weight: 400;
+}
+div h3 {
+  width: 350px;
+  float: none;
+  margin-top: 165px;
+  margin-left: auto;
+  margin-right: auto;
+  text-transform:capitalize;
+  font-weight: 400;
+}
+div h3 span {
+  color:rgb(28, 59, 85);
+  font-weight: bold;
+  margin-left: 10px;
+}
+
